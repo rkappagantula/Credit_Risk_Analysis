@@ -17,32 +17,31 @@ The objective of this project was to use machine learning models to analyze cred
 ## Results
 
 
-- Naive Random Oversampling:
+**- Naive Random Oversampling:**
 
 ![image](https://user-images.githubusercontent.com/96051648/163658808-4efb0fe1-2d1f-4716-810c-e5e2fe808ecb.png)
 
-
-- SMOTE Oversampling:
+**- SMOTE Oversampling:**
 
 ![image](https://user-images.githubusercontent.com/96051648/163658822-65c55fd5-704f-420d-be62-2dbf7d893ecf.png)
 
 
-- Undersampling: 
+**- Undersampling:**
 
 ![image](https://user-images.githubusercontent.com/96051648/163658863-73860b61-dfa2-453a-9573-afb7ec97c0b6.png)
 
 
-- Over and UnderSampling: 
+**- Over and UnderSampling:**
 
 ![image](https://user-images.githubusercontent.com/96051648/163658880-c263a63d-f2bf-49b1-a07b-e93f40cb05d4.png)
 
 
-- Balanced Random Forest Classifier: 
+**- Balanced Random Forest Classifier:**
 
 ![image](https://user-images.githubusercontent.com/96051648/163658898-9a478888-beba-4250-942d-8dd187c7a554.png)
 
 
-- Easy Ensemble AdaBoost Classifier:
+**- Easy Ensemble AdaBoost Classifier:**
 
 ![image](https://user-images.githubusercontent.com/96051648/163658909-474ceefc-67bb-4b8b-a3a8-f8df0b37db43.png)
 
